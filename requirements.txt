@@ -1,0 +1,14 @@
+# Core dependencies
+Pillow>=10.0.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+onnxruntime>=1.15.0
+
+# Optional but recommended for better performance
+rembg>=2.0.0
+
+# Additional image processing libraries
+scikit-image>=0.21.0
+
+# For better UI experience (optional)
+tkinter-tooltip>=2.0.0
